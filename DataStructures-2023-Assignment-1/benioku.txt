@@ -1,0 +1,5 @@
+
+Bazı durumlarda hata olmaksızın adresler kayabiliyor. Eğer adresler kaymış ise lütfen cmd kapatıp tekrar deneyiniz.. !!
+
+
+veriler txt dosyasi ana klasorun icinde olmalidir !!

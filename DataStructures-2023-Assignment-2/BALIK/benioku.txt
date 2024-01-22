@@ -1,0 +1,3 @@
+Veri txt dosyasi doc klosorunun icinde olmalidir !! 
+
+Bu uygulamada Test Programi main cpp dir !!

@@ -1,0 +1,1 @@
+Sayilar.txt doc klasoru icinde olmalidir !!
